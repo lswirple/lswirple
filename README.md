@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Logan! :)
-- 👀 I’m interested in creating programs and looking for a job in the tech field!
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on not much currently, taking it at my own pace!
-- 📫 How to reach me: Email!
+- hi, i'm logan! :)
+- i’m interested in creating programs and looking for a job in the tech field!
+- i’m currently trying my best to learn Python!
+- i’m looking to collaborate on not much currently, taking it at my own pace!
+- how to reach me: email!
 
 <!---
 lswirple/lswirple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

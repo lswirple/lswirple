@@ -1,6 +1,6 @@
 - hi, i'm logan! :)
 - i’m interested in creating programs and looking for a job in the tech field!
-- i’m currently trying my best to learn Python!
+- i’m currently trying my best to learn C#
 - i’m looking to collaborate on not much currently, taking it at my own pace!
 - how to reach me: email!
 
